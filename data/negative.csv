@@ -1,0 +1,6 @@
+1e-3,1000
+Planet1,universe.Planet,-10,0,0,0,5
+Planet2,universe.Planet,10,0,0,0,5
+Planet3,universe.Planet,0,-10,0,0,5
+Planet4,universe.Planet,0,10,0,0,5
+Negative?,universe.Comet,0,0,0,0,-5
